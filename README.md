@@ -3,7 +3,7 @@
 This is a fork of the repository for the development of the phpBB CategoriesInTabs Extension.
 
 ## Quick Install
-You can install this on the latest copy of [phpBB 3.2.x](https://github.com/phpbb/phpbb3)) by following the steps below:
+You can install this on the latest copy of [phpBB 3.2.x](https://github.com/phpbb/phpbb3) by following the steps below:
 
 1. [Download the latest release](https://github.com/nachtelb/CategoriesInTabs).
 2. Unzip the downloaded release, and change the name of the folder to `CategoriesInTabs`.
