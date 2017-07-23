@@ -1,13 +1,11 @@
 # phpBB CategoriesInTabs Extension
 
-This is the repository for the development of the phpBB CategoriesInTabs Extension.
-
-[![Build Status](https://travis-ci.org/Tatiana5/CategoriesInTabs.svg?branch=master)](https://travis-ci.org/Tatiana5/CategoriesInTabs)
+This is a fork of the repository for the development of the phpBB CategoriesInTabs Extension.
 
 ## Quick Install
-You can install this on the latest copy of the develop branch ([phpBB 3.1-dev](https://github.com/phpbb/phpbb3)) by following the steps below:
+You can install this on the latest copy of [phpBB 3.2.x](https://github.com/phpbb/phpbb3)) by following the steps below:
 
-1. [Download the latest release](https://github.com/Tatiana5/CategoriesInTabs).
+1. [Download the latest release](https://github.com/nachtelb/CategoriesInTabs).
 2. Unzip the downloaded release, and change the name of the folder to `CategoriesInTabs`.
 3. In the `ext` directory of your phpBB board, create a new directory named `tatiana5` (if it does not already exist).
 4. Copy the `CategoriesInTabs` folder to `phpBB/ext/tatiana5/` (if done correctly, you'll have the main extension class at (your forum root)/ext/tatiana5/CategoriesInTabs/composer.json).
